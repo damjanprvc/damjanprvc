@@ -2,6 +2,7 @@
 
 #### Personal Projects:
 
+- [ReStyle-MusicVAE: A generative music AI system for human-AI co-creation](https://restyle-musicvae.web.app) (Webapp)
 - [Utrition: Restaurant Nährwertverzeichnis](https://play.google.com/store/apps/details?id=com.utrition.app) (Available only in Austria & Germany - Android App)
 - [Better IPF Score: IPF Points Calculator](https://play.google.com/store/apps/details?id=com.betteripfscore.app) (Android App)
 - [Better Wilks: Powerlifting Wilks Calculator](https://play.google.com/store/apps/details?id=com.damjan.betterwilks) (Android App)
